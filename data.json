@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "city": "Astana",
+      "school": [
+        {
+          "name": "school1",
+          "address": "ulica"
+        },
+        {
+          "name": "school2",
+          "address": "ulica2"
+        }
+      ]
+    },
+    {
+      "city": "Almata",
+      "school": [
+        {
+          "name": "school1",
+          "address": "ulica"
+        },
+        {
+          "name": "school2",
+          "address": "ulica2"
+        }
+      ]
+    }
+  ]
+}
